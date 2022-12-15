@@ -17,6 +17,7 @@ extern int push_arg;
  * @next: points to the next element of the stack (or queue)
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
+  *authors: Yunis Abshir $$ Kauthar jama
  */
 typedef struct stack_s
 {
