@@ -3,6 +3,7 @@
  * _push - push int to a stack
  * @stack: linked lists for monty stack
  * @line_number: number of line opcode occurs on
+  *authors: Yunis Abshir $$ Kauthar jama
  */
 void _push(stack_t **stack, __attribute__ ((unused))unsigned int line_number)
 {
